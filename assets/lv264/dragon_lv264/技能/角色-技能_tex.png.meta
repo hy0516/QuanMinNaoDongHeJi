@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e24d43e4-ed30-4a19-a844-f9f874265079",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2018,
+  "height": 1025,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-技能_tex": {
+      "ver": "1.0.6",
+      "uuid": "577b5ebb-2ac7-44a8-ab4f-7db5255a2aeb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e24d43e4-ed30-4a19-a844-f9f874265079",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 2015,
+      "height": 1022,
+      "rawWidth": 2018,
+      "rawHeight": 1025,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

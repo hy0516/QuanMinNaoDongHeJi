@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "38c8f54b-e755-4d9e-afa8-7aed7a5e51cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 202,
+  "platformSettings": {},
+  "subMetas": {
+    "环保衣服": {
+      "ver": "1.0.6",
+      "uuid": "cef94289-05e3-4f5a-b886-7676a2bc5d4f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "38c8f54b-e755-4d9e-afa8-7aed7a5e51cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 202,
+      "rawWidth": 118,
+      "rawHeight": 202,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d46020d3-dfb5-4448-81f3-c8b1b411f741",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1025,
+  "height": 1371,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-手持武器攻击-左_tex": {
+      "ver": "1.0.6",
+      "uuid": "632c222a-1687-4389-8191-7c0e730f933e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d46020d3-dfb5-4448-81f3-c8b1b411f741",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1022,
+      "height": 1368,
+      "rawWidth": 1025,
+      "rawHeight": 1371,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

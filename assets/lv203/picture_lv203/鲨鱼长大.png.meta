@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "206ecb05-0843-433e-9ea6-b0ac58e7d36e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 255,
+  "height": 314,
+  "platformSettings": {},
+  "subMetas": {
+    "鲨鱼长大": {
+      "ver": "1.0.6",
+      "uuid": "715b5079-38ec-4ee7-b9af-9b1741c73a5d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "206ecb05-0843-433e-9ea6-b0ac58e7d36e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 314,
+      "rawWidth": 255,
+      "rawHeight": 314,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

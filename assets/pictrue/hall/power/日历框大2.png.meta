@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0eff24e1-7b42-45c8-99eb-289b2d62c2a7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 553,
+  "height": 198,
+  "platformSettings": {},
+  "subMetas": {
+    "日历框大2": {
+      "ver": "1.0.6",
+      "uuid": "c9e59c7b-e611-4f8c-a13d-b0fdb7c7ea45",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0eff24e1-7b42-45c8-99eb-289b2d62c2a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 553,
+      "height": 198,
+      "rawWidth": 553,
+      "rawHeight": 198,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

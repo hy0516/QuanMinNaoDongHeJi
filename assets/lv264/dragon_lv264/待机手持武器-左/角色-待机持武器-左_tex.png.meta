@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c6fa17a1-e796-49ba-a8b6-87e31be9149a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-待机持武器-左_tex": {
+      "ver": "1.0.6",
+      "uuid": "319de212-87ef-4a67-a270-a7bfbff03175",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c6fa17a1-e796-49ba-a8b6-87e31be9149a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -440,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1166,
+      "height": 1022,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

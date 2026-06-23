@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9cd73522-85ff-4462-b1e4-0750fbac1450",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 707,
+  "height": 879,
+  "platformSettings": {},
+  "subMetas": {
+    "每日签到日历外框": {
+      "ver": "1.0.6",
+      "uuid": "9935d41d-4643-4c27-9338-63017570313a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9cd73522-85ff-4462-b1e4-0750fbac1450",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 707,
+      "height": 879,
+      "rawWidth": 707,
+      "rawHeight": 879,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

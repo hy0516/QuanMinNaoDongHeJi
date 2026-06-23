@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "568fef4a-60a9-4101-a828-5db5c366a935",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 297,
+  "height": 242,
+  "platformSettings": {},
+  "subMetas": {
+    "葱2颜色": {
+      "ver": "1.0.6",
+      "uuid": "b29763c7-ab3c-4122-bd28-8514922ab456",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "568fef4a-60a9-4101-a828-5db5c366a935",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 297,
+      "height": 242,
+      "rawWidth": 297,
+      "rawHeight": 242,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

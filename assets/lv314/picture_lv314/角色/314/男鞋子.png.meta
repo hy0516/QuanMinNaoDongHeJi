@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a8daf8a4-3079-4c3c-ad1f-034b8f607bc2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 222,
+  "height": 83,
+  "platformSettings": {},
+  "subMetas": {
+    "男鞋子": {
+      "ver": "1.0.6",
+      "uuid": "3f77da35-de94-4d56-a810-7bb8cf990392",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a8daf8a4-3079-4c3c-ad1f-034b8f607bc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 220,
+      "height": 83,
+      "rawWidth": 222,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

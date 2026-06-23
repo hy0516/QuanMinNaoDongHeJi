@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3fec816f-0de0-4e38-8f2f-fa32391d50cd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 209,
+  "height": 185,
+  "platformSettings": {},
+  "subMetas": {
+    "添加桌面": {
+      "ver": "1.0.6",
+      "uuid": "ad3a8a35-2e16-4c6d-bc46-b880123057bc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3fec816f-0de0-4e38-8f2f-fa32391d50cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 209,
+      "height": 185,
+      "rawWidth": 209,
+      "rawHeight": 185,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

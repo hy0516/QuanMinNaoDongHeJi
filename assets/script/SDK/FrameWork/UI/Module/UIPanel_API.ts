@@ -1,0 +1,21 @@
+// Learn TypeScript:
+//  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
+// Learn Attribute:
+//  - https://docs.cocos.com/creator/manual/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
+
+
+export  interface UIPanel_API{
+
+    open(obj:any);
+
+    onOpen(obj:any);
+
+    close(obj:any);
+
+     isOpen();
+
+    onClose(obj:any);
+    // update (dt) {}
+}

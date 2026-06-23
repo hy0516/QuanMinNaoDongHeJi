@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0b073854-70c3-44d3-a481-5b8333ff9d20",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-倒地动画_tex": {
+      "ver": "1.0.6",
+      "uuid": "898efb1f-0b08-4850-ac17-fd0567aff721",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0b073854-70c3-44d3-a481-5b8333ff9d20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -440,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1166,
+      "height": 1022,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

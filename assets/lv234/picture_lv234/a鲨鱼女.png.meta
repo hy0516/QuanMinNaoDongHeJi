@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e77da39b-0f7d-405e-9cd3-83b626cb3a55",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 601,
+  "height": 1082,
+  "platformSettings": {},
+  "subMetas": {
+    "a鲨鱼女": {
+      "ver": "1.0.6",
+      "uuid": "9c06d6f9-77dc-48a1-9204-87842a308cc1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e77da39b-0f7d-405e-9cd3-83b626cb3a55",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 601,
+      "height": 1082,
+      "rawWidth": 601,
+      "rawHeight": 1082,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

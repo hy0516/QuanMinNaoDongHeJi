@@ -1,0 +1,25 @@
+{
+  "ver": "1.1.3",
+  "uuid": "8778a2b3-6e45-4b80-8c38-d1a7c6a50f45",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": 1,
+  "compressionType": {
+    "bytedance": "zip",
+    "wechatgame": "zip"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "bytedance": true,
+    "wechatgame": true
+  },
+  "subMetas": {}
+}

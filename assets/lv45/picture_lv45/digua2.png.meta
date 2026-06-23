@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f6e53d92-1e6d-46c8-a24d-8bbe41b38301",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 401,
+  "height": 151,
+  "platformSettings": {},
+  "subMetas": {
+    "digua2": {
+      "ver": "1.0.6",
+      "uuid": "f63f542f-5539-4122-ad5a-cb9bb88fdcbe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f6e53d92-1e6d-46c8-a24d-8bbe41b38301",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 401,
+      "height": 151,
+      "rawWidth": 401,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

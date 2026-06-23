@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0358cd28-2e8c-4106-9100-f57efbfdd5bb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 417,
+  "height": 166,
+  "platformSettings": {},
+  "subMetas": {
+    "兰萌饼干2": {
+      "ver": "1.0.6",
+      "uuid": "bdff174d-bc3a-4e5d-8719-8ad6dd11d4eb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0358cd28-2e8c-4106-9100-f57efbfdd5bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 417,
+      "height": 166,
+      "rawWidth": 417,
+      "rawHeight": 166,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,63 @@
+// Learn TypeScript:
+//  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
+// Learn Attribute:
+//  - https://docs.cocos.com/creator/manual/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
+
+import InvokeConfig from "../../../Tool/InvokeConfig_newsdk";
+import UISDK_Manager_newsdk from "../../../FrameWork/UI/UISDK_Manager_newsdk";
+
+
+const {ccclass, property} = cc._decorator;
+
+@ccclass
+export default class UI_oppoNativeImage extends cc.Component {
+
+   
+    @property
+    nativeId: string = '';
+
+    onEnable(){
+        let self=this;
+        let sdm:SDK_Manager=window['SDK_Manager'];
+        let nativead = cc.find("NativeAd", this.node);
+        nativead.active=false;
+        if (!sdm.map_allNativeAd.get(nativead)) {
+           
+            sdm.map_allNativeAd.set(nativead,true);
+        }
+
+        /**隐藏所有的nativad，显示本nativead */
+        sdm.map_allNativeAd.forEach((value , key) =>{
+            if (key.active&&key!=nativead) {
+                key.active =false;    
+            }          
+         });
+         sdm.Invoke(InvokeConfig.createNative,function(adres){
+             if (adres) {
+                let onNativeAdClick1=function(id){
+                    sdm.Invoke(InvokeConfig.onNativeAdClick,id)
+                }
+              
+                let del={
+                    onNativeAdClick:onNativeAdClick1,
+                    res:adres,
+                   
+                }
+                UISDK_Manager_newsdk.getInstance().showUIWithNode(nativead,del);
+             }
+           else
+           {
+              nativead.active= false;
+           }
+          
+
+        },self.nativeId);
+        
+      
+
+    }
+
+    // update (dt) {}
+}

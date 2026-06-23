@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3f4e0713-0fa4-4c4d-9d60-ffb49eb7edea",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 454,
+  "height": 1063,
+  "platformSettings": {},
+  "subMetas": {
+    "角色主体紫": {
+      "ver": "1.0.6",
+      "uuid": "920b368d-beff-488d-9940-46c30f4cca79",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3f4e0713-0fa4-4c4d-9d60-ffb49eb7edea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 454,
+      "height": 1063,
+      "rawWidth": 454,
+      "rawHeight": 1063,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

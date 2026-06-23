@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "439d230f-88a6-4433-bb10-f70d0c442361",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 553,
+  "height": 198,
+  "platformSettings": {},
+  "subMetas": {
+    "已获得日历框大": {
+      "ver": "1.0.6",
+      "uuid": "11112960-a367-4b69-9f1b-8fa9bd62548c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "439d230f-88a6-4433-bb10-f70d0c442361",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 553,
+      "height": 198,
+      "rawWidth": 553,
+      "rawHeight": 198,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

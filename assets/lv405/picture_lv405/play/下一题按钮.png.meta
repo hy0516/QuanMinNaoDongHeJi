@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "91d31381-47a6-444d-a96d-8dda2bb2ac27",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 182,
+  "height": 65,
+  "platformSettings": {},
+  "subMetas": {
+    "下一题按钮": {
+      "ver": "1.0.6",
+      "uuid": "79d5b59c-49ad-4f4e-bff0-71f423ac3bd7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "91d31381-47a6-444d-a96d-8dda2bb2ac27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 182,
+      "height": 65,
+      "rawWidth": 182,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

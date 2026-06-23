@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6d31e307-8239-4b0d-843a-4cca423bf34f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 411,
+  "height": 495,
+  "platformSettings": {},
+  "subMetas": {
+    "僧人_tex": {
+      "ver": "1.0.6",
+      "uuid": "8671608e-2705-49e7-a88e-160932a2ec18",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6d31e307-8239-4b0d-843a-4cca423bf34f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 409,
+      "height": 493,
+      "rawWidth": 411,
+      "rawHeight": 495,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ed693cd8-435e-4b94-9301-f393e1d7d3e3",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "comsound",
+  "priority": "4",
+  "compressionType": {
+    "qgame": "default",
+    "bytedance": "zip",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "qgame": false,
+    "bytedance": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "qgame": false,
+    "bytedance": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "qgame": false,
+    "bytedance": true,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

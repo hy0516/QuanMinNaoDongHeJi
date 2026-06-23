@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "57c4d60e-a978-4f38-be67-fc86eb07421c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1169,
+  "height": 1025,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-普通攻击-左_tex": {
+      "ver": "1.0.6",
+      "uuid": "d907b6ef-d034-4f99-9258-fc702fedceaa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "57c4d60e-a978-4f38-be67-fc86eb07421c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1166,
+      "height": 1022,
+      "rawWidth": 1169,
+      "rawHeight": 1025,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

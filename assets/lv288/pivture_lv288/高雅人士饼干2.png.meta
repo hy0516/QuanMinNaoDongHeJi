@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2d1d186a-f84c-4066-8112-df118bf6f695",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 258,
+  "height": 305,
+  "platformSettings": {},
+  "subMetas": {
+    "高雅人士饼干2": {
+      "ver": "1.0.6",
+      "uuid": "910c608a-2bb5-4e49-a6a0-d81f24c8e92f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2d1d186a-f84c-4066-8112-df118bf6f695",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 255,
+      "height": 305,
+      "rawWidth": 258,
+      "rawHeight": 305,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

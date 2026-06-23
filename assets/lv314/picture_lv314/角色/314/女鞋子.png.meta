@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "140d1bd5-ba5f-4d5b-91cc-fee706c44c46",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 223,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "女鞋子": {
+      "ver": "1.0.6",
+      "uuid": "a6905f56-8e8c-40bf-996a-e222afbed83a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "140d1bd5-ba5f-4d5b-91cc-fee706c44c46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 222,
+      "height": 101,
+      "rawWidth": 223,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

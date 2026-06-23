@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ed0f2981-b923-4375-ade5-724107d7dab4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 452,
+  "height": 1086,
+  "platformSettings": {},
+  "subMetas": {
+    "1糖果人": {
+      "ver": "1.0.6",
+      "uuid": "54530de3-b1f6-4a1c-ae15-64348c46bcbf",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ed0f2981-b923-4375-ade5-724107d7dab4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 452,
+      "height": 1086,
+      "rawWidth": 452,
+      "rawHeight": 1086,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

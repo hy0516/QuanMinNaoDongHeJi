@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "75bfd0d2-34d3-41ee-bfba-0481b25804f3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 425,
+  "height": 203,
+  "platformSettings": {},
+  "subMetas": {
+    "女披肩": {
+      "ver": "1.0.6",
+      "uuid": "97e6530e-c740-401b-a753-3e933f4d0d46",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "75bfd0d2-34d3-41ee-bfba-0481b25804f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 424,
+      "height": 203,
+      "rawWidth": 425,
+      "rawHeight": 203,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

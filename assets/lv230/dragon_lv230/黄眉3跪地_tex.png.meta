@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bc69d3c0-3cc2-4d7c-8ad9-2aab3bad8e44",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 759,
+  "height": 620,
+  "platformSettings": {},
+  "subMetas": {
+    "黄眉3跪地_tex": {
+      "ver": "1.0.6",
+      "uuid": "01a3bda5-a415-4b86-b04b-ccf623509667",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bc69d3c0-3cc2-4d7c-8ad9-2aab3bad8e44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 756,
+      "height": 617,
+      "rawWidth": 759,
+      "rawHeight": 620,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

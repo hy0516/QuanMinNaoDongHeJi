@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ed4d6592-7f1d-42bc-b653-2b40d9b6041f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 355,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "约翰饼干2": {
+      "ver": "1.0.6",
+      "uuid": "e78d1c47-a6b2-484d-81dc-391ed2effba8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ed4d6592-7f1d-42bc-b653-2b40d9b6041f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 354,
+      "height": 200,
+      "rawWidth": 355,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

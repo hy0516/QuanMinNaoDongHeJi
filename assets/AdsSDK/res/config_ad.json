@@ -1,0 +1,94 @@
+{
+    
+    "packageName": "com.jy.wgdng.xyx.huawei",
+    "companyName":"安徽景岩信息技术有限公司",
+    "platform": 10,
+    "version": 1,
+    "nativeTest": false,
+    "ADTest": false,
+    "openMaiLiang":true, 
+    "maiLiangAppid":"C1111111",
+    "yszcType":0, 
+    "gameName":"test",
+    "copyrightInfo": {
+        "owner": "深圳市指天椒科技有限公司",
+        "registrationNo": "2025SA0087915"
+    },
+    "GameIdConfig": {
+
+        "toutiaoID": {
+            "appId": "ttddd8ab6542e1df5702",
+            "bannerAdId": "9f60a039b71c47ea914330363892b60c",
+            "rewardedVideoAdId": ["077c9db7966d4481bb77084f65e49794"],
+            "InsertAdId": ["3b1031ae109b487e92e45552a956a322"],
+            "NativeAdId": ["a8ff912fc3d340819fc30d1c57f6dd6c"],
+            "NativeAdbanner": ["d885480cb2574f5fbb0c1e9699c09242"],
+            "subscriptionIds": [""],
+            "share": ""
+        },
+        "douyinID": {
+            "appId": "ttddd8ab6542e1df5702",
+            "bannerAdId": "9f60a039b71c47ea914330363892b60c",
+            "rewardedVideoAdId": ["077c9db7966d4481bb77084f65e49794"],
+            "InsertAdId": ["3b1031ae109b487e92e45552a956a322"],
+            "NativeAdId": ["a8ff912fc3d340819fc30d1c57f6dd6c"],
+            "NativeAdbanner": ["d885480cb2574f5fbb0c1e9699c09242"],
+            "subscriptionIds": [""],
+            "share": ""
+        },
+        "weixinID": {
+          
+            "appId": "105584241",
+            "bannerAdId": "9f60a039b71c47ea914330363892b60c",
+            "rewardedVideoAdId": ["077c9db7966d4481bb77084f65e49794"],
+            "InsertAdId": ["3b1031ae109b487e92e45552a956a322"],
+            "NativeAdId": ["a8ff912fc3d340819fc30d1c57f6dd6c"],
+            "NativeAdbanner": ["d885480cb2574f5fbb0c1e9699c09242"],
+            "subscriptionIds": [""]
+        },
+        "kuaishouID": {
+            "appId": "ks673006670327722213",
+            "bannerAdId": "2300028872_04",
+            "rewardedVideoAdId": ["2300045947_01"],
+            "InsertAdId": ["2300045947_02"],
+            "NativeAdId": ["590148", "59014811"],
+            "NativeAdbanner": ["590148"]
+        },
+        "vivoID": {
+           
+            "appId": "105584241",
+            "bannerAdId": "9f60a039b71c47ea914330363892b60c",
+            "rewardedVideoAdId": ["077c9db7966d4481bb77084f65e49794"],
+            "InsertAdId": ["3b1031ae109b487e92e45552a956a322"],
+            "NativeAdId": ["a8ff912fc3d340819fc30d1c57f6dd6c"],
+            "NativeAdbanner": ["d885480cb2574f5fbb0c1e9699c09242"]
+        },
+        "oppoID": {
+          
+            "appId": "30857229",
+            "bannerAdId": "590143",
+            "rewardedVideoAdId": ["590298"],
+            "InsertAdId": ["497479"],
+            "NativeAdId": ["590148","59014811"],
+            "NativeAdbanner": ["590148"]
+        },
+        "huaweiID": {
+            "hwyszc": "https://zywxgames.com/Resource/wangpangpang/yszc/jingyan/jingyanrpk.txt",
+            "appId": "105524576",
+            "bannerAdId": [ ""],
+            "rewardedVideoAdId": ["g7roht861r"],
+            "InsertAdId": [ "j3qzrg6syq"],
+            "NativeAdId": ["k83lko9j1v", "x76cgi6nx4"],
+            "NativeAdbanner": ["t84rv1pbtk", "m5iq4fwe8e"]
+          },
+          "ryID": {
+            
+              "appId": "30857229",
+              "bannerAdId": "1765641679761571840",
+              "rewardedVideoAdId": ["2008062096363356160"],
+              "InsertAdId": ["2009504913853644800"],
+              "NativeAdId": ["590148"],
+              "NativeAdbanner": ["590148"]
+          }
+    }
+}

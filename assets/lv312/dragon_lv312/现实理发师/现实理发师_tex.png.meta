@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1d7721d7-3248-447c-9478-4e14927f8e71",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 619,
+  "height": 609,
+  "platformSettings": {},
+  "subMetas": {
+    "现实理发师_tex": {
+      "ver": "1.0.6",
+      "uuid": "9dfae413-bf1c-4c58-a664-1c3c113dadba",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1d7721d7-3248-447c-9478-4e14927f8e71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 615,
+      "height": 604,
+      "rawWidth": 619,
+      "rawHeight": 609,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

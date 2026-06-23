@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9d7a0778-e2d9-4fe0-acf2-dc9143a98fd1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 729,
+  "height": 990,
+  "platformSettings": {},
+  "subMetas": {
+    "富女孩_tex": {
+      "ver": "1.0.6",
+      "uuid": "822a0401-9618-431a-8a7c-b83338871f5b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9d7a0778-e2d9-4fe0-acf2-dc9143a98fd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 726,
+      "height": 987,
+      "rawWidth": 729,
+      "rawHeight": 990,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

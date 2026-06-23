@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "97a31699-bb21-4b78-bb3b-7275c6c247fa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 264,
+  "height": 224,
+  "platformSettings": {},
+  "subMetas": {
+    "男披肩": {
+      "ver": "1.0.6",
+      "uuid": "8b9e58e0-45be-48ac-8583-3bf7d4b02eff",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "97a31699-bb21-4b78-bb3b-7275c6c247fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 264,
+      "height": 223,
+      "rawWidth": 264,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f08cdac-a4f4-4bd1-96cf-6b40628fc232",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 470,
+  "height": 1210,
+  "platformSettings": {},
+  "subMetas": {
+    "a卡布奇诺男": {
+      "ver": "1.0.6",
+      "uuid": "23f21a77-de0a-451a-8731-d060bb2e8b6f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f08cdac-a4f4-4bd1-96cf-6b40628fc232",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 470,
+      "height": 1210,
+      "rawWidth": 470,
+      "rawHeight": 1210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

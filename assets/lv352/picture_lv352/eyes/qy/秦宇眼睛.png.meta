@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "613a8a51-a77b-446d-a120-f45e572928dd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "秦宇眼睛": {
+      "ver": "1.0.6",
+      "uuid": "2c29ffa3-f7aa-446e-bfae-183d1223dc6b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "613a8a51-a77b-446d-a120-f45e572928dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 43,
+      "rawWidth": 144,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

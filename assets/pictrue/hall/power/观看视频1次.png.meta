@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fca2ba49-abbb-4efe-bf51-4b486428731c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 320,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "观看视频1次": {
+      "ver": "1.0.6",
+      "uuid": "55197d14-805d-4cfe-a6b8-505b5aaf015a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fca2ba49-abbb-4efe-bf51-4b486428731c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 320,
+      "height": 150,
+      "rawWidth": 320,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

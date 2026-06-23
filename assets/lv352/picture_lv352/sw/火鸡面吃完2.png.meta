@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c554397a-9cc2-434a-b1ff-036e0ab908a6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 192,
+  "height": 275,
+  "platformSettings": {},
+  "subMetas": {
+    "火鸡面吃完2": {
+      "ver": "1.0.6",
+      "uuid": "2eaeb01d-94da-46b2-ad9f-0c06adf3d486",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c554397a-9cc2-434a-b1ff-036e0ab908a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 1,
+      "trimX": 7,
+      "trimY": 0,
+      "width": 182,
+      "height": 273,
+      "rawWidth": 192,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

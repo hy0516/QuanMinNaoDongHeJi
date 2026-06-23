@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "137986f8-89d0-4260-9b9f-28b875a87973",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 1011,
+  "platformSettings": {},
+  "subMetas": {
+    "黄眉1敲门站立_tex": {
+      "ver": "1.0.6",
+      "uuid": "b426d726-0245-4b36-b596-8dd878635183",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "137986f8-89d0-4260-9b9f-28b875a87973",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 346,
+      "height": 1007,
+      "rawWidth": 349,
+      "rawHeight": 1011,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

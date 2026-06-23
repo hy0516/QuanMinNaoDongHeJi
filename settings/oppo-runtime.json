@@ -1,0 +1,19 @@
+{
+  "package": "com.zdtx.jzjjny.kyx.nearme.gamecenter",
+  "name": "机智解救女友 ",
+  "icon": "C:\\Users\\666\\Desktop\\fanzong\\机智解救女友VID\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1099",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageServer": "https://www.zywxgames.com/Resource/wuguihai/xiaowei/ui1/oppo2",
+  "useDebugKey": false,
+  "privatePath": "C:\\Users\\666\\Desktop\\xiaoweidabao\\release\\private.pem",
+  "certificatePath": "C:\\Users\\666\\Desktop\\xiaoweidabao\\release\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false,
+  "separateEngineMode": false
+}

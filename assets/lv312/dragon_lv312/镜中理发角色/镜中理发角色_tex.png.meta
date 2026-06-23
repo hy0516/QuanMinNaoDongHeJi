@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e7356e38-8571-4f24-a1a2-54f25d000169",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 97,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "镜中理发角色_tex": {
+      "ver": "1.0.6",
+      "uuid": "f8baf3db-0faa-4897-8e0f-8405c7fd4029",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e7356e38-8571-4f24-a1a2-54f25d000169",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 91,
+      "height": 127,
+      "rawWidth": 97,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d5cbcd20-6caf-434f-ac08-0540a7055219",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 192,
+  "height": 207,
+  "platformSettings": {},
+  "subMetas": {
+    "女袜子": {
+      "ver": "1.0.6",
+      "uuid": "0a5531cd-4c3d-4661-bdd4-40f315aa8ffa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d5cbcd20-6caf-434f-ac08-0540a7055219",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 192,
+      "height": 206,
+      "rawWidth": 192,
+      "rawHeight": 207,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

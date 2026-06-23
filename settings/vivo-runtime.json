@@ -1,0 +1,19 @@
+{
+  "package": "com.hlcw.msktw.kyx.nearme.gamecenter",
+  "name": "密室快逃亡",
+  "icon": "C:\\Users\\A\\Pictures\\2.png",
+  "versionName": "1.0.1",
+  "versionCode": "1",
+  "minPlatformVersion": "1099",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "C:\\Users\\666\\Desktop\\xiaoweidabao\\release\\private.pem",
+  "certificatePath": "C:\\Users\\666\\Desktop\\xiaoweidabao\\release\\certificate.pem",
+  "disabledMode": "disabled is-disabled",
+  "showNpmPath": false,
+  "packFirstScreenRes": false,
+  "separateEngineMode": false
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2bbaf428-8077-4aeb-8bac-c6b5724948b0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 264,
+  "height": 494,
+  "platformSettings": {},
+  "subMetas": {
+    "男裤子": {
+      "ver": "1.0.6",
+      "uuid": "08cafea1-b0d1-466e-a631-4790d3db4dc3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2bbaf428-8077-4aeb-8bac-c6b5724948b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 264,
+      "height": 494,
+      "rawWidth": 264,
+      "rawHeight": 494,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

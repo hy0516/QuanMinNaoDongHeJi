@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bfd7637b-d635-4ceb-936c-a17881317d28",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1169,
+  "height": 1025,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-躲避动画_tex": {
+      "ver": "1.0.6",
+      "uuid": "21c6aa07-9f75-4f7c-b9bb-78f2c992325d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bfd7637b-d635-4ceb-936c-a17881317d28",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1166,
+      "height": 1022,
+      "rawWidth": 1169,
+      "rawHeight": 1025,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

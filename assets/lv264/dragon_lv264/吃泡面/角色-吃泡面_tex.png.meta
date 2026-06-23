@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a572d2ce-464d-4e73-aeb2-93dd5a9887b1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1025,
+  "height": 2002,
+  "platformSettings": {},
+  "subMetas": {
+    "角色-吃泡面_tex": {
+      "ver": "1.0.6",
+      "uuid": "85c30989-0ca0-462f-a26c-6f9abf30982d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a572d2ce-464d-4e73-aeb2-93dd5a9887b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1022,
+      "height": 1999,
+      "rawWidth": 1025,
+      "rawHeight": 2002,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
