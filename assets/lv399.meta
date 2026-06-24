@@ -6,16 +6,20 @@
   "bundleName": "",
   "priority": 1,
   "compressionType": {
-    "wechatgame": "zip"
+    "wechatgame": "zip",
+    "bytedance": "zip"
   },
   "optimizeHotUpdate": {
-    "wechatgame": false
+    "wechatgame": false,
+    "bytedance": false
   },
   "inlineSpriteFrames": {
-    "wechatgame": false
+    "wechatgame": false,
+    "bytedance": false
   },
   "isRemoteBundle": {
-    "wechatgame": true
+    "wechatgame": true,
+    "bytedance": true
   },
   "subMetas": {}
 }

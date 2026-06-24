@@ -8,22 +8,26 @@
   "compressionType": {
     "web-mobile": "default",
     "qgame": "default",
-    "wechatgame": "subpackage"
+    "wechatgame": "subpackage",
+    "bytedance": "subpackage"
   },
   "optimizeHotUpdate": {
     "web-mobile": false,
     "qgame": false,
-    "wechatgame": false
+    "wechatgame": false,
+    "bytedance": false
   },
   "inlineSpriteFrames": {
     "web-mobile": false,
     "qgame": false,
-    "wechatgame": false
+    "wechatgame": false,
+    "bytedance": false
   },
   "isRemoteBundle": {
     "web-mobile": false,
     "qgame": false,
-    "wechatgame": false
+    "wechatgame": false,
+    "bytedance": false
   },
   "subMetas": {}
 }
