@@ -133,7 +133,7 @@ export default class Ads_Manager {
                 }
             });
         }
-        const arr = obj.PKG.split(".");
+        const arr = obj.PKM.split(".");
         const platform = arr[arr.length - 1];
         const URL = "https://threeswitch.zywxgames.com/api/index/params"
         window[String(platform)].request({
