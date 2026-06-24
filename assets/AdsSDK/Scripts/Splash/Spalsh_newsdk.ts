@@ -51,7 +51,7 @@ export default class Spalsh_newsdk extends cc.Component {
     index:number=0;
     showjkzgtime:number=0;
     protected onLoad(): void {
-      
+        
    
         this.enterSceneName=FirstSplash.enterSceneName;
       
@@ -166,10 +166,9 @@ export default class Spalsh_newsdk extends cc.Component {
                     msg.active=false;
                 }
             }
-        })
+        },this.selfDefineJson.json)
         // console.log("MSG  构建");
-        ,
-        this.selfDefineJson.json
+        
     }
 
     setConfig(){
